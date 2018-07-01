@@ -1,7 +1,5 @@
 # Snake Game
 
----
-
 Hello, every one.
 This project is an implementation of Snake Game in Javascript.
 I divided this program into three files in Javascript, which are main.js, snake.js, food.js.
