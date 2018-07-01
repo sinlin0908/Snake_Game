@@ -33,7 +33,7 @@ This file is a class which defines a snake.
 
 #### Method
 
-- move( ) : This function is to let the snake to move. Note that snake move one grid, so x = x + (xSpeed _ width) and y = y + (ySpeed _ height). Another important point is that the each grid in the snake tail array gives its position to the previous one, and giving the newest position to the lastest one. Thus, Snake looks like walking.
+- move( ) : This function is to let the snake to move. Note that snake move one grid, so x = x + (xSpeed x width) and y = y + (ySpeed x height). Another important point is that the each grid in the snake tail array gives its position to the previous one, and giving the newest position to the lastest one. Thus, Snake looks like walking.
 - show( ): Drawing snake with canvas.
 - doesEat( ) : check whether the snake eats food.
 - isDead( ): check whether the snake is dead.
